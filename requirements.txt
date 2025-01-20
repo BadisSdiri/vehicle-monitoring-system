@@ -1,0 +1,9 @@
+opencv-python
+torch
+torchvision
+numpy
+pandas
+matplotlib
+easyocr
+yolov5
+tqdm
